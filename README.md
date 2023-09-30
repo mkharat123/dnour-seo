@@ -1,2 +1,2 @@
 # dnour-seo
-Online Ecommerce store for luxury jewelry and diamonds in UAE.
+DNOUR is a online Ecommerce store for luxury jewelry and diamonds in UAE.
